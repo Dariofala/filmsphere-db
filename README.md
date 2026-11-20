@@ -1,4 +1,4 @@
-# 🎬 FilmSphere — Relational Database for a Film Streaming Platform
+# 🎬 FilmSphere - Relational Database for a Film Streaming Platform
 
 ![MySQL](https://img.shields.io/badge/MySQL-8.0+-4479A1?logo=mysql&logoColor=white)
 ![SQL](https://img.shields.io/badge/language-SQL-orange)
@@ -126,5 +126,5 @@ This is an academic project and some choices are deliberately simplified:
 
 ## 👥 Authors
 
-- **Dario Falaschi** — [@Dariofala](https://github.com/Dariofala)
-- **Leonardo Lentini**
+- **Dario Falaschi** - [@Dariofala](https://github.com/Dariofala)
+- **Leonardo Lentini** - [@LeonardoLentini](https://github.com/LeonardoLentini)
